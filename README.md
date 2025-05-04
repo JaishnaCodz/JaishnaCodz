@@ -50,7 +50,6 @@ Figma • Canva
 - ✨ College Networking Platform (Hackathon idea)  
 - 🧠 ML + Cloud: Object Detection via Gradio + Spring Boot  
 - 📊 Real-world Data Dashboards with Power BI/Tableau  
-- 🔐 Mini toolkit for File Encryption  
 - 🤖 Feature-rich Virtual Assistant  
 
 ---
