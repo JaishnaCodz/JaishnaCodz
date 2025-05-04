@@ -1,4 +1,88 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jaishna!
+
+![Welcome Banner](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;CSE+Student+@+MVJCE;Cloud+%2B+ML+Explorer;Building+Projects+that+Make+Sense&center=true&width=450)
+
+---
+
+## 💼 About Me
+
+I'm a final-year Computer Science student passionate about using **data** to uncover insights and drive decisions.  
+Over the past year, I've worked with tools like **Python**, **Power BI**, **SQL**, and **Tableau** to analyze, visualize, and communicate data-driven stories.  
+
+I believe in *clarity through visuals*, and I'm especially interested in the intersection of **cloud computing**, **AI**, and **analytics**.  
+Currently, I'm experimenting with building **cloud-based ML apps**, learning new tools, and working on practical mini-projects.  
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**  
+`Python` `SQL` `Java` `JavaScript` `Bash`
+
+**Analytics & Visualization**  
+Power BI • Tableau • Excel • Pandas • Matplotlib • Seaborn
+
+**Cloud & ML**  
+Google Cloud • Gradio • Hugging Face • Transformers
+
+**Frameworks**  
+Flask • FastAPI
+
+**Other Tools**  
+Git & GitHub • VS Code • Firebase • Jupyter Notebooks
+
+**Design & Media**  
+Figma • Canva
+
+---
+
+## 🌱 Currently Learning
+
+- IBM Data Engineering (edX)  
+- Python for Data Analysis
+- Excel Dashboards & Advanced Functions   
+- Exploring GenAI and LangChain  
+
+---
+
+## 💡 Projects I'm Working On
+
+- ✨ College Networking Platform (Hackathon idea)  
+- 🧠 ML + Cloud: Object Detection via Gradio + Spring Boot  
+- 📊 Real-world Data Dashboards with Power BI/Tableau  
+- 🔐 Mini toolkit for File Encryption  
+- 🤖 Feature-rich Virtual Assistant  
+
+---
+
+## 📚 Recent Achievements
+
+- Data Analyst Intern @ **ERS Information Systems Pvt. Ltd.** (Feb–Apr 2025)  
+- ✅ **NPTEL Data Analyst Certification** – IIT Kharagpur   
+- ✅ **Data Analytics Fundamentals** – IBM (edX)   
+- ✅ **Prompt Engineering with LLMs** – NVIDIA  
+- ✅ **Google Cloud Compute Skill Badge**  
+
+---
+
+## 📊 GitHub Highlights
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaishna&show_icons=true&theme=tokyonight" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishna&layout=compact&theme=tokyonight" />
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn]https://www.linkedin.com/in/jaishna-s/ 
+- 📧 Email: jaishna@gmail.com
+
+---
+
+Thanks for stopping by — I’m always open to opportunities, feedback, and collaboration!  
+Let’s turn data into impact. 🚀
+
+
 
 <!--
 **JaishnaCodz/JaishnaCodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
