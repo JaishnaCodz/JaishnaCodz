@@ -64,8 +64,8 @@ Figma • Canva
 
 ## 📊 GitHub Highlights
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaishna&show_icons=true&theme=tokyonight" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishna&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaishnacodz&show_icons=true&theme=tokyonight" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishnacodz&layout=compact&theme=tokyonight" />
 
 ---
 
