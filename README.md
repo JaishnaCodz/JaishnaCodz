@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jaishna!
 
-![Welcome Banner](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;CSE+Student+@+MVJCE;Cloud+%2B+ML+Explorer;Building+Projects+that+Make+Sense&center=true&width=450)
+![Welcome Banner](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+AI+Engineer=;CSE+Student+@+MVJCE;Cloud+%2B+ML+Explorer;Building+Projects+that+Make+Sense&center=true&width=450)
 
 ---
 
