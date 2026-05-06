@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaishna
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+AI+Engineer;Building+with+GenAI+%26+LLMs;RAG+%7C+Agentic+AI+%7C+Data+Analytics;CSE+Student+@+MVJCE&center=true&width=500)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Building+with+GenAI+%26+LLMs;RAG+%7C+Agentic+AI+%7C+Data+Analytics;CSE+Student+@+MVJCE&center=true&width=500)
 
 ---
 
