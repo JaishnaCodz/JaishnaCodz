@@ -1,97 +1,127 @@
-# 👋 Hi there, I'm Jaishna!
+# 👋 Hi, I'm Jaishna
 
-![Welcome Banner](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+AI+Engineer;CSE+Student+@+MVJCE;GenAI+%2B+AIML+Explorer;Building+Projects+that+Make+Sense&center=true&width=450)
-
----
-
-## 💼 About Me
-
-I'm a final-year Computer Science student passionate about using **data** to uncover insights and drive decisions.  
-Over the past year, I've worked with tools like **Python**, **Power BI**, **SQL**, and **Tableau** to analyze, visualize, and communicate data-driven stories.  
-
-I believe in *clarity through visuals*, and I'm especially interested in the intersection of , **AI**, and **analytics**.  
-Currently, I'm experimenting with building **AIML apps**, learning new tools, and working on practical mini-projects.  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+AI+Engineer;Building+with+GenAI+%26+LLMs;RAG+%7C+Agentic+AI+%7C+Data+Analytics;CSE+Student+@+MVJCE&center=true&width=500)
 
 ---
 
-## 🛠️ Skills & Tools
+## 💫 About Me
 
-**Languages**  
-`Python` `SQL` `Java` `JavaScript` 
+I'm a final-year Computer Science student passionate about building practical AI systems that solve real-world problems.
 
-**Analytics & Visualization**  
-Power BI • Tableau • Excel • Pandas • Matplotlib • Seaborn
+My interests currently revolve around:
 
-**Cloud & ML**  
-Google Cloud • Gradio • Hugging Face • Transformers
+- Generative AI  
+- Agentic AI Systems  
+- Retrieval-Augmented Generation (RAG)  
+- Data Analytics & Visualization  
+- AI-powered Applications  
 
-**Frameworks**  
-Flask • FastAPI
+I enjoy combining analytics, AI, and clean user experiences to build applications that are both useful and scalable.
 
-**Other Tools**  
-Git & GitHub • VS Code • Firebase • Jupyter Notebooks
+Recently, I’ve been working on:
+- Enterprise-style RAG systems
+- AI-powered virtual assistants
+- LLM-based workflow automation
+- Blog/content review AI tools
+- Interactive AI apps using Gradio & FastAPI
 
-**Design & Media**  
-Figma • Canva
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Python` `SQL` `Java` `JavaScript`
+
+### AI / ML
+`Transformers` `Hugging Face` `LangChain` `OpenAI API` `Ollama` `RAG`
+
+### Data & Visualization
+`Power BI` `Tableau` `Pandas` `Matplotlib` `Excel`
+
+### Frameworks & Tools
+`FastAPI` `Flask` `Gradio` `Git` `GitHub` `Firebase`
+
+### Vector DB & Databases
+`ChromaDB` `Weaviate` `MongoDB`
+
+### Cloud & Platforms
+`Google Cloud` `Jupyter Notebook` `VS Code`
 
 ---
 
 ## 🌱 Currently Learning
 
-- IBM Data Engineering (edX)  
-- Python for Data Analysis
-- Excel Dashboards & Advanced Functions   
-- Exploring GenAI and LangChain  
+- Advanced RAG Architectures  
+- AI Agents & Multi-Agent Systems  
+- LLM Distillation  
+- Data Engineering Fundamentals  
 
 ---
 
-## 💡 Projects I'm Working On
+## 🚀 Featured Projects
 
-- 📊 Real-world Data Dashboards with Power BI/Tableau  
-- 🤖 Feature-rich Virtual Assistant  
+### 🤖 BlogCheckerAI
 
----
+An AI-powered blog review system that analyzes blog content for:
+- clarity
+- tone
+- sensitivity
+- improvement suggestions
 
-## 📚 Recent Achievements
-
-- Data Analyst Intern @ **ERS Information Systems Pvt. Ltd.** (Feb–Apr 2025)  
-- ✅ **NPTEL Data Analyst Certification** – IIT Kharagpur   
-- ✅ **Data Analytics Fundamentals** – IBM (edX)   
-- ✅ **Prompt Engineering with LLMs** – NVIDIA  
-- ✅ **Google Cloud Compute Skill Badge**  
+Built using:
+`Python` `Gradio` `LLMs` `Prompt Engineering`
 
 ---
 
-## 📊 GitHub Highlights
+### 📚 Enterprise RAG Assistant
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaishnacodz&show_icons=true&theme=tokyonight" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishnacodz&layout=compact&theme=tokyonight" />
+A scalable FAQ assistant that retrieves information from structured and unstructured data sources using:
+- vector databases
+- embeddings
+- local/open-source LLMs
+- semantic search
+
+Tech used:
+`Weaviate` `OpenAI API` `LangChain` `FastAPI`
 
 ---
 
-## 🌐 Connect with Me
+## 📜 Certifications
 
-- 💼 [LinkedIn]https://www.linkedin.com/in/jaishna-s/ 
+- ✅ NPTEL Data Analytics Certification – IIT Kharagpur  
+- ✅ IBM Data Analytics Fundamentals – edX  
+- ✅ Prompt Engineering with LLMs – NVIDIA  
+- ✅ Google Cloud Compute Skill Badge  
+
+---
+
+## 💼 Experience
+
+### Data Analyst Intern  
+**ERS Information Systems Pvt. Ltd.**  
+*Feb 2025 – Apr 2025*
+
+Worked on analytics, dashboards, reporting workflows, and practical business data handling.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaishnacodz&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaishnacodz&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [Jaishna S](https://www.linkedin.com/in/jaishna-s/)
 - 📧 Email: jaishna@gmail.com
 
 ---
 
-Thanks for stopping by — I’m always open to opportunities, feedback, and collaboration!  
-Let’s turn data into impact. 🚀
-
-
-
-<!--
-**JaishnaCodz/JaishnaCodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always curious about AI, analytics, and building things that create real impact.
