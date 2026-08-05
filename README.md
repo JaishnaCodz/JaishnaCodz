@@ -218,8 +218,6 @@ While my current focus is AI Engineering, I'm continuously expanding my expertis
 ---
 
 
----
-
 # 🤝 Connect With Me
 
 <p align="left">
